@@ -1,5 +1,4 @@
-# Robot Arm Manipulator (CS403 Box Control Competition)
-
+# Robot Arm Manipulator
 MuJoCo simulation for a mini robot arm tasked with inserting an end-effector box into a moving/vibrating box mould. This repository contains the MuJoCo model (MJCF), mesh assets, and Python control code used for the CS403 Box Control competition.
 
 ## Repository structure
